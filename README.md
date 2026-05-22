@@ -33,9 +33,7 @@ Aplicativo mobile desenvolvido com React Native que consome uma API pública de 
 
 ## 📷 Preview do aplicativo
 
-<p align="center">
-  <img src="./preview.png" width="300"/>
-</p>
+![Preview](./preview.png)
 
 ---
 
